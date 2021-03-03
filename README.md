@@ -1,2 +1,2 @@
-# leaning-note
+# learning-note
 这是一个学习笔记的仓库
